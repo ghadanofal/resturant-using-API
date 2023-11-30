@@ -1,0 +1,16 @@
+.carousel .carousel-indicators [data-bs-target] {
+    width: 60px;
+    height: 60px;
+    text-align: center;
+    line-height: 60px;
+    border-radius: 100%;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    -ms-border-radius: 100%;
+    -o-border-radius: 100%;
+    text-indent: 0;
+}
+.carousel-item{
+    
+}
+
